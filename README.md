@@ -4,6 +4,7 @@ No projeto PEI1 é pedido para ser criado uma landing page de uma web-page para 
 académico clínico fictício nos açores.
 
 Na etapa de design:
+  
   • Wireframes - É possível ver vários tipos de organização, mas acabamos por não usar
 nenhum deles, visto que a landing page seria simples e não precisaria de menus tão
 complexos. No entanto, mantivemos as localizações do logotipo e do nome da clínica,
